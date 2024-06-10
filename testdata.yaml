@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+
+login: Rad_Drefs
+password: 7b20a45678
+
+title_name: Hello
+description_name: world
+content_name: Hello world!
+
+your_name: Vanya
+your_email: Vanya@gmail.com
+your_content: Hello world!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: Shrid_Daser
+password_1: 456cfe511d
